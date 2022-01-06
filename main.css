@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@200;500&display=swap');
+
+body {
+    font-family: 'Urbanist', sans-serif;
+    text-align:center;
+}
+
+.container{
+    margin-top: 4%;
+}
+
+/*POS Button & Output*/
+
+.prodCSS {
+    background-color:rgb(28, 28, 99);
+    color: white;
+    font-size: 25px;
+    padding: 35px;
+    border: solid white 3px;
+    cursor: pointer;
+}
+
+.lessCSS {
+    background-color: rgb(204, 106, 26);
+    color: white;
+    font-size: 25px;
+    padding: 35px;
+    border: solid white 3px;
+    cursor: pointer;
+}
+.delCSS{
+    background-color: rgb(175, 33, 33);
+    color: rgb(238, 238, 238);
+    font-size: 25px;
+    padding: 35px;
+    border: solid white 3px;
+    cursor: pointer;
+}
+.printCSS {
+    background-color: rgb(49, 124, 49);
+    color: white;
+    font-size: 25px;
+    padding: 35px;
+    border: solid white 3px;
+    cursor: pointer;
+}
+.AmtCSS {
+    background-color: rgb(218, 218, 218);
+    color: black;
+    font-size: 25px;
+    padding: 35px;
+    border: solid white 3px;
+}
+.BreakCSS {
+    background-color: rgb(218, 218, 218);
+    color: black;
+    font-size: 20px;
+    padding: 35px;
+    border: solid white 3px;
+}
+
+/*Other Button*/
+.voidCSS {
+    background-color:rgb(175, 33, 33);
+    color: white;
+    font-size: 25px;
+    padding: 35px;
+    border: solid white 3px;
+    cursor: pointer;
+}
